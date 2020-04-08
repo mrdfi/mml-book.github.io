@@ -1,5 +1,5 @@
-# mml-book.github.io
-Mathematics For Machine Learning
+# Mathematics For Machine Learning
+Ebook 
 
 [https://mml-book.com](https://mml-book.com)
 
